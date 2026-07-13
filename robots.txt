@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://seoheroph.github.io/signature-smiles-den-1bb35/sitemap.xml
